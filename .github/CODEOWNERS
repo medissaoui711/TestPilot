@@ -1,0 +1,4 @@
+* @user
+/.github/ @user
+/src/lib/scanner.ts @user
+/src/lib/scanner-demo.ts @user
