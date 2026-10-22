@@ -1,6 +1,6 @@
 # 🛡️ TestPilot: AI Security & Code Analysis Dashboard (Public Demo)
 
-![TestPilot Dashboard](./public/assets/testpilot-dashboard.png)
+![TestPilot Dashboard](https://drive.google.com/uc?export=view&id=1dnrdVPBzShbtrI3l961_NmCnSTDygKps)
 
 > **IMPORTANT NOTICE:** This repository contains **ONLY the Public Demo frontend interface** of TestPilot. The proprietary AI analysis engine, backend server, real-time connectors, and advanced enterprise security core are **NOT included** in this public release. No customer data, production secrets, or proprietary algorithms are present in this repository.
 
