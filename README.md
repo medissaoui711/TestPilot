@@ -9,7 +9,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC.svg)](https://tailwindcss.com/)
 [![License: Custom](https://img.shields.io/badge/License-Custom-red.svg)](LICENSE)
 
-TestPilot is an advanced, privacy-first cybersecurity and code-quality command center demo. Designed specifically to evaluate codebases, it transforms complex static analysis and vulnerability scanning into actionable, prioritized intelligence for both developers and non-technical stakeholders.
+TestPilot is an AI security and code analysis dashboard for reviewing AI-generated codebases. This public demo showcases a React + TypeScript security dashboard, code-quality reporting UI, severity-based triage, and client-side simulated scanning.
 
 ## 🏗️ Architectural Philosophy (Demo Mode)
 
@@ -73,6 +73,9 @@ This public demo does **not** perform real security analysis.
 Documentation for the private production architecture is not included in this public demo repository.
 
 For security concerns, use GitHub private vulnerability reporting.
+
+## 🔍 Keywords
+AI security dashboard, code review, AI-generated code analysis, static analysis, vulnerability scanning UI, code quality dashboard, React security dashboard, TypeScript security tools, cybersecurity SaaS.
 
 ## 📜 License
 

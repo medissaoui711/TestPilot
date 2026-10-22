@@ -1,6 +1,6 @@
 {
   "name": "TestPilot",
-  "description": "Automated QA and testing dashboard providing actionable insights and quick fixes for non-technical teams.",
+  "description": "TestPilot — AI Security & Code Analysis Dashboard (Public Demo). React + TypeScript UI for AI-generated code security and quality review.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
